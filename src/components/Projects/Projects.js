@@ -59,7 +59,6 @@ function Projects() {
               isBlog={false}
               title="Wireless Home Automation System"
               description='A wireless home automation project that incorporates multiple switching modes, enabling users to control devices through various methods. It includes Bluetooth connectivity for mobile control, traditional manual switches for convenient physical operation, and a binary counter for automated switching."
-              // ghLinkLink=""
               demoLink="https://drive.google.com/file/d/1r2PgUFZLqO0DWOf66v8FmeA6RCt_PX-c/view?usp=drive_link"
             />
           </Col>
